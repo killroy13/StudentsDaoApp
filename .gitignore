@@ -2,6 +2,11 @@
 
 .idea/*
 out/*
+src/com/java/lesson/collections7/*
+src/com/java/lesson/four_five/*
+src/com/java/lesson/inputOutput/*
+src/com/java/lesson/notActiv/*
+src/com/java/lesson/six/*
 
 src/com/java/lesson/restaurant/reservation/notUse/*
 web/testJsp/*
