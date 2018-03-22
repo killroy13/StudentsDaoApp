@@ -11,6 +11,7 @@ import com.java.lesson.lesson10.dto.Subject;
 
 /**
  * Created by User on 14.02.2018.
+ * @author Igor
  */
 public class Main {
 
@@ -32,7 +33,7 @@ public class Main {
         student2.setSecondName("test2");
         student2.setCourse(3);
 
-        /*Вывод по ID */
+        /*Show by ID */
 //        System.out.println(std.getById(1));
 
         /*Обновить данные*/
